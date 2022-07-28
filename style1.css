@@ -1,0 +1,19 @@
+.logo {
+  height: 200px;
+  width: 200px;
+}
+img {
+  height: 300px;
+  width: auto;
+}
+@import url("https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova&family=Mochiy+Pop+One&family=Montserrat&display=swap");
+
+h1 {
+  font-family: Ibarra;
+  color: sienna;
+  font-style: ITALIC;
+}
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+h6 {
+  font-family: Russo;
+  color: red;

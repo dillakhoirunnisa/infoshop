@@ -1,0 +1,39 @@
+img {
+  height: 300px;
+  width: auto;
+}
+
+.logo {
+  height: 200px;
+  width: 200px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-evenly;
+  border: 5px solid khaki;
+  height: 60px;
+  align-items: center;
+  background-color: khaki;
+}
+.navbar a {
+  margin-left: 100px;
+  margin-right: 100px;
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+
+  font-size: 20px;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,600&display=swap");
+
+h1 {
+  font-family: Montserrat;
+  color: black;
+  font-style: ITALIC;
+}
+a:hover {
+  color: blue;
+}

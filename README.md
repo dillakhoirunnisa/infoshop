@@ -1,2 +1,2 @@
-# infoshop
+# dillashop
 Created with CodeSandbox
